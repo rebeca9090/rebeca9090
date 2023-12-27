@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rebeca
 - 👀 I’m interested in learning more about coding and get myself into this world
-- 🌱 I’m currently learning HTML, CSS and JAVA
-- 💞️ I’m looking to collaborate on people joining the community now so we can learn together
+- 🌱 I’m currently learning JAVA and C#, but I've dabbled in Python, HTML, CSS and JavaScript previously
+- 💞️ I’m looking to collaborate on people joining the community now and people with more experience so we can improve together
 - 📫 You can reach me on my insta --> rebeca0990
 
 <!---
