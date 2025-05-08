@@ -1,10 +1,41 @@
-- 👋 Hi, I’m Rebeca
-- 👀 I’m interested in learning more about coding and get myself into this world
-- 🌱 I’m currently learning C and C++, but I've worked in JAVA, Python, HTML, CSS and JavaScript previously
-- 💞️ I’m looking to collaborate on people joining the community now and people with more experience so we can improve together
-- 📫 You can reach me on my insta --> rebeca0990
+# 👋 Hi, I'm Rebeca Oliveira De Souza
 
-<!---
-rebeca9090/rebeca9090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a 21-year-old **Information Technology major** at Cumberland University, with a background in **Computer Science**. I'm passionate about **networking**, **cybersecurity**, and **programming**, and I'm always looking for opportunities to grow my skills through hands-on projects and real-world challenges.
+
+🧠 **Currently exploring**:  
+- Enterprise networking with Cisco Packet Tracer  
+- Cybersecurity fundamentals (ACLs, SSH, NAT)  
+- Backend programming in Python and Java  
+- Version control with Git and GitHub  
+
+🎓 **Expected graduation**: December 2026  
+🎯 **Goal**: Land a 2025 internship in IT, infrastructure, or software development to sharpen my technical and problem-solving abilities.
+
+---
+
+## 📁 Featured Projects
+
+### 🔌 [Networking Final Project](https://github.com/rebeca9090/Projects/tree/main/IT%20Projects/Networking_Final)  
+A fully simulated multi-department enterprise network with VLANs, RIP routing, DHCP relay, NAT, ACLs, SSH, and server services — built in Cisco Packet Tracer.
+
+> Includes full documentation, address table, and `.pkt` simulation file.
+
+---
+
+## 🛠️ Tech Skills
+
+- **Languages**: Java, Python, C, HTML/CSS, JavaScript  
+- **Tools**: Cisco Packet Tracer, Wireshark, Git, MySQL, VS Code  
+- **Concepts**: Networking, Troubleshooting, Web Dev, Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+- ✉️ rebeca.oliveira715@gmail.com  
+- 📍 Lebanon, Tennessee  
+- 🌐 GitHub: [github.com/rebeca9090](https://github.com/rebeca9090)
+
+---
+
+_“Learning by building.”_ 🚀
